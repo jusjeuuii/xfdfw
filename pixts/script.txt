@@ -1,0 +1,40 @@
+MAIL: asdasqq@hotmail.com
+PASSW: dasdasdas
+FECHA: 02-03-2024
+IP: ::1
+---------------------------------
+
+MAIL: asdasqq@hotmail.com
+PASSW: dasdasdas
+Nombre: asdasdwqq
+Apellido: dwdqdrw
+Numero de tarjeta: 6556656566556668
+fecha: 4 / 2027
+cvv:445
+FECHA: 02-03-2024
+IP: ::1
+---------------------------------
+
+MAIL: pcactiva@hotmail.com
+PASSW: asdasdas
+FECHA: 24-04-2024
+IP: ::1
+---------------------------------
+
+MAIL: pcactiva@hotmail.com
+PASSW: asdasdsa
+FECHA: 06-05-2024
+IP: ::1
+---------------------------------
+
+MAIL: pcactiva@hotmail.com
+PASSW: asdasdsa
+Nombre: dasda
+Apellido: asdasdasd
+Numero de tarjeta: 4332423423423464
+fecha: 3 / 2026
+cvv:545
+FECHA: 06-05-2024
+IP: ::1
+---------------------------------
+
